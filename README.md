@@ -1,8 +1,10 @@
 # Haitham Eldesouky - Portfolio
 
-IT infrastructure engineer. I also develop tools and take on different freelance requests. A selection of my work is below.
+**IT & Software Engineer | Development, Automation and IT Solutions**
 
-Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - [Upwork](https://www.upwork.com/freelancers/~01741b0beadfbad916) - Behance: [haithameldesou](https://www.behance.net/haithameldesou) - Code: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
+IT & software engineer in Cairo. I build software, automate work and solve IT problems, and I take on different freelance projects. A selection of my work is below.
+
+[GitHub](https://github.com/HaithamEldesouky) - [Behance](https://www.behance.net/haithameldesou) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - [Upwork](https://www.upwork.com/freelancers/~01741b0beadfbad916) - Shop: [Gumroad](https://eldesouky4.gumroad.com)
 
 ## Cute Kawaii Clipart
 
