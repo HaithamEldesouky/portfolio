@@ -23,6 +23,10 @@ main{max-width:1100px;margin:0 auto;padding:8px 16px 48px;display:grid;grid-temp
 details{margin-top:14px}summary{cursor:pointer;color:var(--mute);font-size:14px}
 .thumbs{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:10px}.thumbs img{width:100%;display:block;border-radius:6px;border:1px solid var(--line)}
 footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--mute);font-size:14px}footer a{color:var(--acc)}
+#gh{max-width:1100px;margin:0 auto;padding:0 16px 40px}#gh h2{font-size:22px;margin:0 0 4px}#gh .sub{color:var(--mute);margin:0 0 16px;font-size:15px}
+.repos{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.repo{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;text-decoration:none;color:var(--ink);display:flex;flex-direction:column;gap:6px}
+.repo:hover{border-color:var(--acc)}.repo b{color:var(--acc);font-size:16px;overflow-wrap:anywhere}.repo span{color:var(--mute);font-size:14px}.repo small{color:var(--mute);font-size:13px;margin-top:auto}
 </style></head><body>
 <header><h1>Haitham Eldesouky</h1>
 <p class="lead">IT systems administrator in Cairo. I also take on different freelance work, including development. A selection of my work is below.</p>
@@ -59,5 +63,25 @@ footer{max-width:1100px;margin:0 auto;padding:0 16px 40px;color:var(--mute);font
 <details><summary>See all 3 images</summary><div class="thumbs"><a href="images/powershell/01.jpg"><img src="images/powershell/01.jpg" loading="lazy" alt="PowerShell Automation image 01"></a><a href="images/powershell/02.jpg"><img src="images/powershell/02.jpg" loading="lazy" alt="PowerShell Automation image 02"></a><a href="images/powershell/03.jpg"><img src="images/powershell/03.jpg" loading="lazy" alt="PowerShell Automation image 03"></a></div></details></div>
 </article>
 </main>
+<section id="gh"><h2>Latest on GitHub</h2><p class="sub">Updates by itself from my GitHub account.</p>
+<div class="repos" id="repos"><a class="repo" href="https://github.com/HaithamEldesouky"><b>See my repositories on GitHub</b></a></div></section>
+<script>
+(function(){
+  var skip={"HaithamEldesouky":1,"portfolio":1};
+  fetch("https://api.github.com/users/HaithamEldesouky/repos?sort=pushed&per_page=100")
+  .then(function(r){if(!r.ok)throw r.status;return r.json()})
+  .then(function(list){
+    var box=document.getElementById("repos"),n=0;box.textContent="";
+    list.filter(function(r){return !r.fork&&!r.archived&&!r.private&&!skip[r.name]}).forEach(function(r){
+      var a=document.createElement("a");a.className="repo";a.href=r.html_url;
+      var b=document.createElement("b");b.textContent=r.name;a.appendChild(b);
+      if(r.description){var d=document.createElement("span");d.textContent=r.description;a.appendChild(d);}
+      var m=document.createElement("small");m.textContent=(r.language?r.language+" · ":"")+"updated "+new Date(r.pushed_at).toLocaleDateString(undefined,{year:"numeric",month:"short",day:"numeric"});a.appendChild(m);
+      box.appendChild(a);n++;
+    });
+    if(!n)throw 0;
+  }).catch(function(){var box=document.getElementById("repos");box.innerHTML='<a class="repo" href="https://github.com/HaithamEldesouky"><b>See my repositories on GitHub</b></a>';});
+})();
+</script>
 <footer>Free samples: <a href="https://github.com/HaithamEldesouky/free-kawaii-sprites">kawaii sprites</a> and <a href="https://github.com/HaithamEldesouky/free-islamic-seamless-tiles">Islamic tiles</a>. All sample data in the Excel and PowerShell images is made up.</footer>
 </body></html>
