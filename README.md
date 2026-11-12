@@ -2,7 +2,7 @@
 
 IT systems administrator in Cairo. I also take on different freelance work, including development. A selection of my work is below.
 
-Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - Behance: [haithameldesou](https://www.behance.net/haithameldesou) - Code: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
+Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - [Upwork](https://www.upwork.com/freelancers/~01741b0beadfbad916) - Behance: [haithameldesou](https://www.behance.net/haithameldesou) - Code: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
 
 ## Cute Kawaii Clipart
 
