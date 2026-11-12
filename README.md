@@ -1,6 +1,6 @@
 # Haitham Eldesouky - Portfolio
 
-IT systems administrator in Cairo. I also take on different freelance work, including development. A selection of my work is below.
+IT infrastructure engineer. I also develop tools and take on different freelance requests. A selection of my work is below.
 
 Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - [Upwork](https://www.upwork.com/freelancers/~01741b0beadfbad916) - Behance: [haithameldesou](https://www.behance.net/haithameldesou) - Code: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
 
@@ -64,7 +64,7 @@ Shop: [Sysadmin Workbook Set](https://eldesouky4.gumroad.com/l/gfpxec)
 <img src="images/itworkbooks/07.jpg" width="49%" alt="Sysadmin Workbook Set 07.jpg">
 <img src="images/itworkbooks/cover.jpg" width="49%" alt="Sysadmin Workbook Set cover.jpg">
 
-## Excel & CSV Data Cleaning
+## Spreadsheets & Reports
 
 Messy customer lists cleaned and turned into dashboards. All data is fake.
 
@@ -76,7 +76,7 @@ Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - Samples: [excel-data-c
 <img src="images/excel/04.jpg" width="49%" alt="Excel & CSV Data Cleaning 04.jpg">
 <img src="images/excel/cover.jpg" width="49%" alt="Excel & CSV Data Cleaning cover.jpg">
 
-## PowerShell Automation
+## Server Automation
 
 Scripts for Windows Server, Active Directory and Microsoft 365, with HTML reports.
 
