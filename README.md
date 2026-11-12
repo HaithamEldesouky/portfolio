@@ -1,6 +1,6 @@
 # Haitham Eldesouky - Portfolio
 
-Clipart, game assets and kids' printables drawn with code (Python SVG, no AI image generator), plus Excel workbooks and PowerShell automation.
+IT systems administrator in Cairo. I also take on different freelance work, including development. A selection of my work is below.
 
 Shop: [eldesouky4.gumroad.com](https://eldesouky4.gumroad.com) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - Behance: [haithameldesou](https://www.behance.net/haithameldesou) - Code: [github.com/HaithamEldesouky](https://github.com/HaithamEldesouky)
 
