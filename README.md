@@ -4,13 +4,13 @@
 
 IT & software engineer in Cairo. I build software, automate work and solve IT problems, and I take on different freelance projects. A selection of my work is below.
 
-[GitHub](https://github.com/HaithamEldesouky) - [Behance](https://www.behance.net/haithameldesou) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - [Upwork](https://www.upwork.com/freelancers/~01741b0beadfbad916) - Shop: [Gumroad](https://eldesouky4.gumroad.com)
+[GitHub](https://github.com/HaithamEldesouky) - [Behance](https://www.behance.net/haithameldesou) - Hire me: [Fiverr](https://www.fiverr.com/haithamashraf) - [Upwork](https://www.upwork.com/freelancers/~01741b0beadfbad916) - Shop: [Gumroad](https://haithameldesouky.gumroad.com)
 
 ## Cute Kawaii Clipart
 
 25 cute transparent PNG sprites: sea animals, farm animals, food and space.
 
-Shop: [Cute Kawaii Clipart - 25 PNG](https://eldesouky4.gumroad.com/l/cute-kawaii-clipart) - Free sample: [free-kawaii-sprites](https://github.com/HaithamEldesouky/free-kawaii-sprites)
+Shop: [Cute Kawaii Clipart - 25 PNG](https://haithameldesouky.gumroad.com/l/cute-kawaii-clipart) - Free sample: [free-kawaii-sprites](https://github.com/HaithamEldesouky/free-kawaii-sprites)
 
 <img src="images/kawaii/01.jpg" width="49%" alt="Cute Kawaii Clipart 01.jpg">
 <img src="images/kawaii/02.jpg" width="49%" alt="Cute Kawaii Clipart 02.jpg">
@@ -27,7 +27,7 @@ Shop: [Cute Kawaii Clipart - 25 PNG](https://eldesouky4.gumroad.com/l/cute-kawai
 
 Lanterns, crescent moons, mosque clipart, Ramadan backgrounds and 15 seamless geometric tiles.
 
-Shop: [Ramadan & Eid pack](https://eldesouky4.gumroad.com/l/ramadan-eid-clipart-patterns) - Free sample: [free-islamic-seamless-tiles](https://github.com/HaithamEldesouky/free-islamic-seamless-tiles)
+Shop: [Ramadan & Eid pack](https://haithameldesouky.gumroad.com/l/ramadan-eid-clipart-patterns) - Free sample: [free-islamic-seamless-tiles](https://github.com/HaithamEldesouky/free-islamic-seamless-tiles)
 
 <img src="images/ramadan/01.jpg" width="49%" alt="Ramadan & Eid Clipart and Islamic Patterns 01.jpg">
 <img src="images/ramadan/02.jpg" width="49%" alt="Ramadan & Eid Clipart and Islamic Patterns 02.jpg">
@@ -41,7 +41,7 @@ Shop: [Ramadan & Eid pack](https://eldesouky4.gumroad.com/l/ramadan-eid-clipart-
 
 Truck coloring pages, preschool worksheets and winter activity pages.
 
-Shop: [Truck Coloring + Worksheets bundle](https://eldesouky4.gumroad.com/l/nutjfv) - [Winter Activity Pages](https://eldesouky4.gumroad.com/l/winter-activity-pages)
+Shop: [Truck Coloring + Worksheets bundle](https://haithameldesouky.gumroad.com/l/nutjfv) - [Winter Activity Pages](https://haithameldesouky.gumroad.com/l/winter-activity-pages)
 
 <img src="images/kids/01.jpg" width="49%" alt="Kids' Printables 01.jpg">
 <img src="images/kids/02.jpg" width="49%" alt="Kids' Printables 02.jpg">
@@ -55,7 +55,7 @@ Shop: [Truck Coloring + Worksheets bundle](https://eldesouky4.gumroad.com/l/nutj
 
 Six Excel workbooks for IT admins: backups, patching, Hyper-V builds, assets, SQL maintenance, onboarding.
 
-Shop: [Sysadmin Workbook Set](https://eldesouky4.gumroad.com/l/gfpxec)
+Shop: [Sysadmin Workbook Set](https://haithameldesouky.gumroad.com/l/gfpxec)
 
 <img src="images/itworkbooks/01.jpg" width="49%" alt="Sysadmin Workbook Set 01.jpg">
 <img src="images/itworkbooks/02.jpg" width="49%" alt="Sysadmin Workbook Set 02.jpg">
