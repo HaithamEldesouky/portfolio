@@ -102,6 +102,10 @@ h2.sec{max-width:1100px;margin:12px auto 12px;padding:0 16px;font-size:24px}
 <div class="body"><h2>AssetManager: IT Asset Tracking</h2><p>A solution I was asked to build: a storekeeper app, a server and a tray notifier that record every piece of equipment issued or returned, and let each person confirm or reject it.</p><div class="btns"><a class="btn" href="https://github.com/HaithamEldesouky/AssetManager">View on GitHub</a><a class="btn alt" href="https://www.behance.net/gallery/258321699/AssetManager-IT-Asset-Tracking-for-Small-Teams">Case study</a></div></div>
 </article>
 <article class="card">
+<img class="cover" src="images/knowledge-base/cover.jpg" alt="IT Knowledge Base in light and dark mode" loading="lazy" width="808" height="632">
+<div class="body"><h2>IT Knowledge Base</h2><p>A web app an IT team runs in production: fixes, scripts, projects and reports in one place, with approvals, version history, a newcomer roadmap and on-prem AI search that finds answers by meaning. ASP.NET Core, SQLite.</p><div class="btns"><a class="btn" href="https://github.com/HaithamEldesouky/knowledge-base">View on GitHub</a></div></div>
+</article>
+<article class="card">
 <img class="cover" src="images/ledgerline/cover.jpg" alt="LedgerLine: payments ledger microservice" loading="lazy" width="808" height="632">
 <div class="body"><h2>LedgerLine: Payments Ledger Service</h2><p>A compact, production-shaped ledger in Go: double-entry bookkeeping, safe-to-retry transfers and concurrency control, shipped with Docker, Kubernetes, Helm, Terraform, CI/CD and monitoring.</p><div class="btns"><a class="btn" href="https://github.com/HaithamEldesouky/ledgerline">View on GitHub</a></div></div>
 </article>
@@ -152,7 +156,7 @@ h2.sec{max-width:1100px;margin:12px auto 12px;padding:0 16px;font-size:24px}
 
 <script>
 (function(){
-  var skip={"HaithamEldesouky":1,"portfolio":1,"free-kawaii-sprites":1,"free-islamic-seamless-tiles":1};
+  var skip={"HaithamEldesouky":1,"portfolio":1,"free-kawaii-sprites":1,"free-islamic-seamless-tiles":1,"knowledge-base":1};
   fetch("https://api.github.com/users/HaithamEldesouky/repos?sort=pushed&per_page=100")
   .then(function(r){if(!r.ok)throw r.status;return r.json()})
   .then(function(list){
