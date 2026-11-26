@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Upgrade Log Explainer - why did my Windows upgrade fail?</title>
+<meta name="description" content="Free Windows app that reads your upgrade and repair logs and explains in plain words why a Windows 10 or 11 upgrade, update or sfc/DISM repair failed. Works offline.">
+<link rel="canonical" href="https://haithameldesouky.com/apps/upgrade-log-explainer/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.ico" sizes="any">
+<style>
+:root{--bg:#f6f4ef;--card:#fff;--ink:#1f2430;--mute:#5d6472;--acc:#c2410c;--line:#e4e0d8}
+@media(prefers-color-scheme:dark){:root{--bg:#14161c;--card:#1d2029;--ink:#eceae4;--mute:#a3a8b3;--acc:#f0763a;--line:#2c303b}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:16px}
+main{max-width:860px;margin:24px auto}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:28px;margin-bottom:20px}
+.top{display:flex;gap:18px;align-items:center}.top img{width:72px;height:72px;border-radius:16px;flex:none}
+h1{margin:0;font-size:28px;line-height:1.2}h2{font-size:20px;margin:0 0 10px}
+.sub{color:var(--mute);margin:4px 0 0}
+.shot{width:100%;height:auto;border-radius:12px;border:1px solid var(--line);display:block}
+ul{padding-left:20px;margin:0}li{margin:4px 0}
+.badge{display:inline-block;margin-top:14px;padding:8px 14px;border-radius:8px;border:1px solid var(--line);color:var(--mute);font-weight:600}
+a{color:var(--acc)}footer{color:var(--mute);font-size:14px;text-align:center;margin:28px 0}
+code{font-family:Consolas,monospace;font-size:14px}
+</style></head><body><main>
+<div class="card">
+  <div class="top"><img src="icon.png" alt="" width="72" height="72">
+    <div><h1>Upgrade Log Explainer</h1><p class="sub">Why did my Windows upgrade fail? Free Windows app, works offline.</p></div></div>
+  <span class="badge">Coming soon to the Microsoft Store</span>
+</div>
+<div class="card"><img class="shot" src="screenshot.jpg" alt="Upgrade Log Explainer showing the most likely cause of a failed upgrade: a driver stopped the upgrade, error 0xC1900101-0x20017, with steps to fix it" width="1366" height="768" loading="lazy"></div>
+<div class="card">
+  <h2>What it does</h2>
+  <p>Windows writes down exactly why an upgrade or repair failed, in thousands of lines of logs. This app reads them and tells you the most likely cause and what to do, in plain words.</p>
+  <ul>
+    <li>Failed Windows 10 and 11 upgrades: <code>0xC1900101</code> driver rollbacks, hardware requirements, blocking apps, low disk space, and the stage where setup stopped</li>
+    <li>Apps and drivers that block the upgrade, by name</li>
+    <li>System File Checker (<code>sfc /scannow</code>) and DISM repair results</li>
+    <li>Microsoft SetupDiag results, turned into plain steps</li>
+    <li>The exact log lines behind every finding, and a report you can save</li>
+  </ul>
+</div>
+<div class="card">
+  <h2>Private by design</h2>
+  <p>No account, no ads, no internet connection needed. The app only reads the log files you point it at, and nothing leaves your PC. <a href="privacy.html">Privacy policy</a></p>
+  <h2 style="margin-top:20px">Support</h2>
+  <p>Questions or a log it could not explain? Email <a href="mailto:hello@haithameldesouky.com">hello@haithameldesouky.com</a>.</p>
+</div>
+<footer>© 2026 Haitham Eldesouky · <a href="/">haithameldesouky.com</a></footer>
+</main></body></html>
